@@ -1,3 +1,6 @@
 .buttons{
-  display: flex;
+  display: inline-flex;
+}
+.div{
+  text-align: center;
 }
